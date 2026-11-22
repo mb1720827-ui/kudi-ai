@@ -5,7 +5,7 @@
 <!-- Add after deploying: **Live demo:** https://your-app.vercel.app -->
 <!-- Add a demo GIF here: ![Kudi AI demo](docs/demo.gif) -->
 
-![CI](https://github.com/mb1720827-ui/kudi-ai/actions/workflows/ci.yml/badge.svg)
+<!-- Restore once GitHub Actions runs on this account: ![CI](https://github.com/mb1720827-ui/kudi-ai/actions/workflows/ci.yml/badge.svg) -->
 
 ## What it does
 
