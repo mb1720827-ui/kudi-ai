@@ -2,7 +2,7 @@
 
 **Paste a Nigerian bank alert and Kudi AI turns it into a categorized transaction, then shows where your money went this month.**
 
-<!-- Add after deploying: **Live demo:** https://your-app.vercel.app -->
+**Live demo:** https://kudi-ai-omega.vercel.app (create an account, then press **Try a sample**)
 <!-- Add a demo GIF here: ![Kudi AI demo](docs/demo.gif) -->
 
 <!-- Restore once GitHub Actions runs on this account: ![CI](https://github.com/mb1720827-ui/kudi-ai/actions/workflows/ci.yml/badge.svg) -->
